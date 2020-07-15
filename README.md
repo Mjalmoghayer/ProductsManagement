@@ -1,2 +1,2 @@
-# University-projects
-مستودع يحتوي على مشاريع الجامعة
+# ProductsManagement
+مشروع جافا لإدارة المنتجات
